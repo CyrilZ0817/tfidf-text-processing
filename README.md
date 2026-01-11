@@ -33,8 +33,8 @@ tfidf-text-processing/
 ├── tfidf.py
 ├── stopwords.txt
 ├── sample_docs/
-│   ├── doc1.txt
-│   ├── doc2.txt
-│   └── doc3.txt
+│   ├── covid_doc1.txt
+│   ├── covid_doc2.txt
+│   └── covid_doc3.txt
 └── README.md
 ```
