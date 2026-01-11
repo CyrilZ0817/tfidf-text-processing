@@ -38,3 +38,8 @@ tfidf-text-processing/
 │   └── covid_doc3.txt
 └── README.md
 ```
+## Output
+Running the script generates:
+- `preproc_<filename>.txt` (preprocessed documents)
+- `tfidf_<filename>.txt` (top 5 TF-IDF terms)
+
